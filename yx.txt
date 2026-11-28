@@ -1,4 +1,10 @@
-saas.sin.fan#优选域名 saas.sin.fa
+saas.sin.fan#优选域名 saas.sin.fan
+img.css.sd#优选域名img.css.sd
+224322.xyz#优选域名 224322.xyz
+3913234f.alidns-3.com#优选域名 3913234f.alidns-3.com
+ip.skk.moe#优选域名 ip.skk.moe
+cm.cf.090902.xyz#优选域名 cm.cf.090902.xyz
+cfsaas.080112.xyz#优选域名 cfsaas.080112.xyz
 172.64.229.115:443#JP 电信优选[98ms 81.00Mbps]
 172.64.229.119:8443#JP 电信优选[102ms 56.73Mbps]
 172.64.229.213:443#JP 电信优选[107ms 96.28Mbps]
